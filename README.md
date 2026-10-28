@@ -11,7 +11,7 @@ This repo lists all currently relevant java obfuscators, including indirect obfu
 
 | Name | Description |
 | -------- | ------- |
-| 👍 ZKM (zelix.com) | The most known obfuscator. Known for strong method parameter obfuscation and flow obfuscation. Common in commercial products, since the obfuscator almost never breaks jars. |
+| 👍 ZKM (zelix.com) | The most known obfuscator. Known for strong method parameter obfuscation and flow obfuscation. Common in commercial products, since the obfuscator almost never breaks jars. Does not feature any native transpilation, or virtualization. |
 | :star2: qProtect (qtechnologies.dev) | Legacy version wasn't the best, but new versions of qProtect are definitely in the top contenders of java obfuscation. One of the goto picks for current security, as qProtect offers state-of-the-art obfuscation techniques. |
 | :star2: FlowGuard (flowguard.pro) | Complex obfuscation techniques including fourth-generation flow obfuscation, three-step string encryption and code virtualization. Offers full anti-tampering and native sealing, meaning that your authentication's calls are super secure. You currently have to apply. |
 | VMProtect | Code virtualization for native apps. Can be paired with a native transpiler to create a safe environment for authentication. |
