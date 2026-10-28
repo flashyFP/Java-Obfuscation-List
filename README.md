@@ -1,6 +1,6 @@
 # Java-Obfuscation-List
 
-This repo lists all currently relevant java obfuscators, including indirect obfuscation techniques that can strengthen a .jar or .apk. 
+This repo lists all currently relevant java obfuscators, including indirect obfuscation techniques that can strengthen a .jar or .apk. Note that this is opinionated and may be bias to some degree.
 
 # Free / Open source
 *No currently free/open source obfuscators are relevant in preventing reverse engineering. Most are easy to reverse with ai, but some obfuscators like Aidsfuscator & Ambien might be worthwhile forking.*
